@@ -1,4 +1,4 @@
---HOMEWORK 5---
+
 
 /*1-Tüm filmleri film adı ve dili ile birlikte  listeleyiniz.
 hint:film ve language tablolarını kullanınız.*/
